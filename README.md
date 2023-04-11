@@ -19,4 +19,3 @@ From the simulation, more than half of the pipeline will require a different typ
 
 # Made by :
 1. Abdul_Hafiz
-2. Surayya
